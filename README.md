@@ -1,6 +1,6 @@
 # Machine_Learning_Algorithms
 
-I have added several algorithms in this repositories using different algorithm in the machine learning techniques.
+I have added several algorithms in this repositories using different algorithm in the machine learning techniques with their mathematical expressions.
 
 #### 1. 
 #### 2. 
