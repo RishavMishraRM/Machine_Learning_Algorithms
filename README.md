@@ -15,7 +15,7 @@ Various Algorithm of Supervised Learning, Unsupervised Learning and Reinforcemen
 
 
 ## .Unsupervised Learning Algorithms.
-#### 1. Apriori (https://github.com/RishavMishraRM/Machine_Learning_Algorithms/tree/main/Apriori_Algorithm)
+#### 1. Apriori
 #### 2. K-Means
 #### 3. Principal Component Analysis
 #### 4. SVD
